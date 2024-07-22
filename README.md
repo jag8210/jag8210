@@ -6,16 +6,18 @@
 
 ## About Me
 
-Graduated from Kent Institute Sydney, Australia, in Information Technology with a specialization in websites in 2010. I am a web developer passionate about learning, with experience in frontend technologies, including HTML, CSS, JavaScript, web prototyping, UI-UX, e-commerce, WordPress, digital marketing, graphic and digital design for marketing purposes. I am skilled in Agile methodologies (SCRUM), project management, teamwork, flexibility, and empathy in all the tasks I undertake. Currently, I am a Front End Junior React developer and an active student of Software Engineering and new technologies.
+Graduated from Kent Institute Sydney, Australia, in Information Technology with a specialization in websites in 2010. I am a web developer passionate about learning, with experience in frontend technologies, including HTML, CSS, JavaScript, React, web prototyping, UI-UX, e-commerce, WordPress, digital marketing, graphic and digital design for marketing purposes. I am skilled in Agile methodologies (SCRUM), project management, teamwork, flexibility, and empathy in all the tasks I undertake. Currently, I am a Front End Junior React developer and an active student of Software Engineering and new technologies.
 
 ### Languages and Tools 🛠 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+
+
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
