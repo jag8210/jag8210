@@ -1,4 +1,9 @@
-## Hi there, I am Andres Giraldo 👋
+<div align="center">
+<h1 align="center">Hi there, I am Andres Giraldo 👋</h1>
+</div>
+
+<img src="https://dualconnection.com.co/wp-content/uploads/2024/07/banner-git.jpg">
+
 
 <!--
 **jag8210/jag8210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
